@@ -13,6 +13,8 @@ data:
       url: https://github.com/argoproj/argocd-example-apps.git
     - type: git
       url: https://github.com/uS-aito/testRepo.git
+    - type: git
+      url: https://github.com/uS-aito/first-N-digit-prime-in-pi.git
   repository.credentials: ""
   resource.exclusions: ""
   resource.inclusions: ""
